@@ -782,7 +782,8 @@ a {
 }
 .cid-uqs52QWuLy .dropdown-menu,
 .cid-uqs52QWuLy .navbar.opened {
-  background: #ffffff !important;
+  background: transparent  !important;
+  backdrop-filter: blur(18px);
 }
 .cid-uqs52QWuLy .nav-item:focus,
 .cid-uqs52QWuLy .nav-link:focus {
