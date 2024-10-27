@@ -1760,8 +1760,5 @@ document.getElementsByTagName("body")[0].setAttribute("style", "z-index: 0");
     var a = document.createElement("section");
     a.id = "top-1";
     a.style = "display: none";
-    a.innerHTML =
-     
-    document.body.insertBefore(a, document.body.childNodes[0]);
   }
 })();
